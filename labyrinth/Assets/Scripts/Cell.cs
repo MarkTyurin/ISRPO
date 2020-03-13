@@ -4,8 +4,7 @@ using UnityEngine;
 
 public class Cell : MonoBehaviour
 {
-    public GameObject WallLeft;
-    public GameObject WallBottom;
+    public GameOb
     // Start is called before the first frame update
     void Start()
     {
